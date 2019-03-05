@@ -1,5 +1,4 @@
 # Test-PA
 It's a repository just for test.
 hye hello 
-¾È³çÇÏ¼¼¿ä
-¾È³çÇÏ¼¼¿ä
+í•˜í•˜í•˜
